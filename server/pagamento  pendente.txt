@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirmação de Contrato - Pagamento Pendente</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; background-color: #f5f5f5;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f5f5f5;">
+        <tr>
+            <td align="center" style="padding: 20px 0;">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                    <!-- Header com logo Booking.com -->
+                    <tr>
+                        <td align="center" bgcolor="#003580" style="padding: 30px 20px; border-radius: 8px 8px 0 0;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td align="left" style="color: #ffffff; font-size: 28px; font-weight: bold;">Booking.com</td>
+                                    <td align="right" style="color: #ffffff; font-size: 12px;">Confirmação de Contrato</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Conteúdo Principal -->
+                    <tr>
+                        <td style="padding: 30px 20px;">
+                            <!-- Saudação -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-size: 16px; color: #333333; line-height: 24px; margin-bottom: 20px;">
+                                        Prezado(a) <strong>Jhulei Moreira Sousa</strong>,
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Bloco de Status de Confirmação -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 20px 0; background-color: #e8f5e9; border-left: 4px solid #388E3C; border-radius: 4px;">
+                                <tr>
+                                    <td style="padding: 15px 15px; color: #388E3C; font-size: 14px; font-weight: bold;">
+                                        ✓ CONTRATO CONFIRMADO
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Texto Principal -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-size: 14px; color: #555555; line-height: 22px; margin-bottom: 20px;">
+                                        Sua reserva foi confirmada e seu contrato está validado em nosso sistema. Porém, <strong>ainda não recebemos o pagamento da primeira parcela (30%)</strong>.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-size: 14px; color: #555555; line-height: 22px; margin-bottom: 20px;">
+                                        Para garantir sua reserva, é necessário realizar o pagamento <strong>o quanto antes</strong>. Em breve, sua reserva será expirada automaticamente em nosso sistema.
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Bloco de Aviso de Expiração -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 20px 0; background-color: #fff3cd; border-left: 4px solid #ff9800; border-radius: 4px;">
+                                <tr>
+                                    <td style="padding: 15px 15px; color: #856404; font-size: 13px; font-weight: bold;">
+                                        ⚠️ ATENÇÃO: Sua reserva expirará em breve!
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 0 15px 15px 15px; color: #856404; font-size: 13px; line-height: 20px;">
+                                        Efetue o pagamento com urgência para manter sua reserva ativa.
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Informações de Dados -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 20px 0; background-color: #f9f9f9; border-radius: 4px;">
+                                <tr>
+                                    <td style="padding: 15px; font-size: 13px; color: #666666; border-bottom: 1px solid #eeeeee;">
+                                        <strong>CPF:</strong> 042.554.425-76
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 15px; font-size: 13px; color: #666666;">
+                                        <strong>Status:</strong> Contrato Confirmado - Pagamento Pendente
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Botão de Pagamento -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-size: 14px; color: #333333; font-weight: bold; margin-bottom: 15px; margin-top: 20px;">
+                                        Link para Pagamento (30%):
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding: 10px 0 20px 0;">
+                                        <table border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td align="center" bgcolor="#0054A6" style="border-radius: 5px;">
+                                                    <a href="https://hub.payevo.com.br/pay/cff08216-70b8-4eda-b665-d942352e5c25" target="_blank" style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; border-radius: 5px; padding: 12px 20px; border: 1px solid #0054A6; display: inline-block; font-weight: bold;">REALIZAR PAGAMENTO AGORA</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Bloco de Restrição de Pagamento -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 20px 0; background-color: #ffebee; border-left: 4px solid #d32f2f; border-radius: 4px;">
+                                <tr>
+                                    <td style="padding: 15px 15px; color: #c62828; font-size: 13px; font-weight: bold;">
+                                        🚫 RESTRIÇÃO DE PAGAMENTO
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 0 15px 15px 15px; color: #c62828; font-size: 13px; line-height: 20px;">
+                                        No momento, <strong>não estamos aceitando pagamentos via Itaú</strong> devido a instabilidade em suas plataformas de pagamento. Por favor, utilize outro método de pagamento disponível.
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Instruções Adicionais -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-size: 14px; color: #333333; font-weight: bold; margin-bottom: 10px; margin-top: 20px;">
+                                        Próximos Passos:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-size: 13px; color: #555555; line-height: 22px; margin-bottom: 20px;">
+                                        1. Clique no botão acima para acessar o link de pagamento<br>
+                                        2. Complete o pagamento dos 30% da sua reserva<br>
+                                        3. Você receberá uma confirmação por e-mail assim que o pagamento for processado<br>
+                                        4. Após a confirmação, você poderá informar ao anfitrião seu horário de chegada
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Dúvidas -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="font-size: 13px; color: #666666; line-height: 20px; margin-top: 20px; padding-top: 20px; border-top: 1px solid #eeeeee;">
+                                        Caso tenha dúvidas sobre o pagamento ou sua reserva, entre em contato conosco através dos números abaixo.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td bgcolor="#003580" style="padding: 30px 20px; border-radius: 0 0 8px 8px; text-align: center;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td align="center" style="color: #ffffff; font-size: 13px; line-height: 20px; margin-bottom: 15px;">
+                                        <strong>Booking.com</strong><br>
+                                        Seu parceiro de confiança em hospedagem
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="color: #b3d9ff; font-size: 12px; line-height: 18px; margin-bottom: 15px;">
+                                        📞 Telefone: (11) 4700-3708<br>
+                                        📞 SAC: 0800-047-4429<br>
+                                        📧 E-mail: suporte@booking.com
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="color: #99ccff; font-size: 11px; line-height: 16px;">
+                                        © 2026 Booking.com. Todos os direitos reservados.<br>
+                                        Este é um e-mail automático, por favor não responda diretamente.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

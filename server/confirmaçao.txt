@@ -1,0 +1,78 @@
+<div style="font-family: Arial, sans-serif; font-size: 14px;"><br></div><div style="font-family: Arial, sans-serif; font-size: 14px;"><div style="font-family: Arial, sans-serif; font-size: 14px;">
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserva Confirmada - Booking.com</title>
+
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding: 20px 0px; background-color: rgb(244, 244, 244);">
+        <tbody><tr>
+            <td align="center">
+                <!-- Container Principal -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; border: 1px solid rgb(0, 53, 128); border-radius: 8px; overflow: hidden; background-color: rgb(255, 255, 255);">
+
+                    <!-- Cabeçalho (Header) -->
+                    <tbody><tr>
+                        <td style="padding: 20px; text-align: left; background-color: rgb(0, 53, 128);">
+                            <h1 style="margin: 0px; font-size: 24px; font-weight: bold; color: rgb(255, 255, 255);">Booking.com</h1>
+                        </td>
+                    </tr>
+
+                    <!-- Corpo Principal (Content) -->
+                    <tr>
+                        <td style="padding: 30px; line-height: 1.6; color: rgb(51, 51, 51);">
+                            <p style="font-size: 18px; margin-top: 0;">Olá, <strong>Renata Massani Cabral</strong>,</p>
+
+                            <!-- Bloco de Confirmação de Reserva (Verde Sucesso) -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="15" style="border: 1px solid rgb(103, 194, 58); border-radius: 5px; margin-bottom: 25px; background-color: rgb(240, 249, 235);">
+                                <tbody><tr>
+                                    <td align="center">
+                                        <p style="margin: 0px; font-weight: bold; font-size: 20px; color: rgb(45, 90, 39);">✅ RESERVA CONFIRMADA</p>
+                                        <p style="margin: 5px 0px 0px; font-size: 14px; color: rgb(45, 90, 39);">Protocolo: <strong>BK-928471-SR</strong></p>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <p>Temos o prazer de informar que sua reserva foi confirmada com sucesso em nosso sistema! Sua estadia está garantida e o anfitrião já foi notificado.</p>
+
+                            <!-- Bloco de Informações Necessárias -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="15" style="border: 1px solid rgb(0, 84, 166); border-radius: 5px; margin: 20px 0px; background-color: rgb(230, 240, 255);">
+                                <tbody><tr>
+                                    <td>
+                                        <p style="margin: 0px; font-weight: bold; font-size: 16px; color: rgb(0, 53, 128);">📋 Próximos Passos Importantes:</p>
+                                        <p style="margin: 10px 0 0 0; font-size: 14px;">Para que possamos preparar tudo para sua chegada, por favor, informe ao anfitrião:</p>
+                                        <ul style="margin: 10px 0px 0px; padding-left: 20px; font-size: 14px; color: rgb(51, 51, 51);">
+                                            <li>Seu <strong>horário previsto de check-in</strong>.</li>
+                                            <li>A <strong>quantidade de toalhas</strong> necessária para sua estadia.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <p>O seu voucher detalhado com o endereço completo e instruções de acesso será enviado em breve para este e-mail.</p>
+
+                            <!-- Botão de Ação (CTA) -->
+                            <div style="text-align: center; margin: 30px 0;"><br></div>
+
+                            <p>Desejamos a você uma excelente estadia!</p>
+
+                            <p>Atenciosamente,<br>
+                            <strong>Equipe de Confirmações Booking.com</strong></p>
+                        </td>
+                    </tr>
+
+                    <!-- Rodapé (Footer) -->
+                    <tr>
+                        <td style="padding: 20px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); background-color: rgb(0, 53, 128);">
+                            <p style="margin: 0;">© 2026 Booking.com. Todos os direitos reservados.</p>
+                            <p style="margin: 10px 0 0 0;">Este é um e-mail automático de confirmação de reserva.</p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+
+</div></div>

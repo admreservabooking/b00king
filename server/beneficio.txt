@@ -1,0 +1,72 @@
+<div style="font-family: Arial, sans-serif; font-size: 14px;">
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oferta Exclusiva: 20% de Desconto no Saldo Restante - Booking.com</title>
+
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding: 20px 0px; background-color: rgb(244, 244, 244);">
+        <tbody><tr>
+            <td align="center">
+                <!-- Container Principal -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; border: 1px solid rgb(0, 53, 128); border-radius: 8px; overflow: hidden; background-color: rgb(255, 255, 255);">
+
+                    <!-- Cabeçalho (Header) -->
+                    <tbody><tr>
+                        <td style="padding: 20px; text-align: left; background-color: rgb(0, 53, 128);">
+                            <h1 style="margin: 0px; font-size: 24px; font-weight: bold; color: rgb(255, 255, 255);">Booking.com</h1>
+                        </td>
+                    </tr>
+
+                    <!-- Corpo Principal (Content) -->
+                    <tr>
+                        <td style="padding: 30px; line-height: 1.6; color: rgb(51, 51, 51);">
+                            <p style="font-size: 18px; margin-top: 0;">Olá, <strong>Joniel Fernandes Alves</strong>,</p>
+
+                            <p>Esperamos que esteja tudo bem 😊</p>
+
+                            <p>Identificamos que sua reserva já conta com o pagamento de <strong>30% do valor total</strong> confirmado em nosso sistema.</p>
+
+                            <!-- Bloco de Oferta Especial -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="20" style="border: 2px dashed rgb(0, 84, 166); border-radius: 10px; margin: 25px 0px; text-align: center; background-color: rgb(230, 240, 255);">
+                                <tbody><tr>
+                                    <td>
+                                        <p style="margin: 0px; font-size: 16px; font-weight: bold; text-transform: uppercase; color: rgb(0, 53, 128);">Condição Exclusiva por Tempo Limitado</p>
+                                        <p style="margin: 15px 0px; font-size: 32px; font-weight: bold; color: rgb(0, 84, 166);">20% DE DESCONTO</p>
+                                        <p style="margin: 0px; font-size: 16px; color: rgb(0, 53, 128);">Sobre o valor restante da sua reserva.</p>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <p>Para facilitar a finalização e garantir sua estadia com este benefício especial, clique no botão abaixo para realizar o pagamento com o desconto já aplicado:</p>
+
+                            <!-- Botão de Ação (CTA) -->
+                            <div style="text-align: center; margin: 35px 0;">
+                                <a href="https://link.infinitepay.io/bookingreservas/VC1DLUMtUg-1oXWPlRggj-1161,00" style="display: inline-block; padding: 18px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px; color: rgb(255, 255, 255); background-color: rgb(0, 84, 166);">
+                                    APROVEITAR DESCONTO AGORA
+                                </a>
+                            </div>
+
+                            <p>Caso tenha interesse em aproveitar esta condição exclusiva ou tenha qualquer dúvida, basta nos confirmar por aqui para darmos sequência à finalização da sua reserva.</p>
+
+                            <p>Será um prazer recebê-lo(a)!</p>
+
+                            <p>Atenciosamente,<br>
+                            <strong>Equipe de Reservas Booking.com</strong></p>
+                        </td>
+                    </tr>
+
+                    <!-- Rodapé (Footer) -->
+                    <tr>
+                        <td style="padding: 20px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); background-color: rgb(0, 53, 128);">
+                            <p style="margin: 0;">© 2026 Booking.com. Todos os direitos reservados.</p>
+                            <p style="margin: 10px 0 0 0;">Esta é uma oferta personalizada para sua reserva atual.</p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+</div>

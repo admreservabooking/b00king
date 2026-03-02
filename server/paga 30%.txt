@@ -1,0 +1,91 @@
+<div style="font-family: Arial, sans-serif; font-size: 14px;">
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contrato Confirmado - Pagamento Pendente - Booking.com</title>
+
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding: 20px 0px; background-color: rgb(244, 244, 244);">
+        <tbody><tr>
+            <td align="center">
+                <!-- Container Principal -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; border: 1px solid rgb(221, 221, 221); border-radius: 8px; overflow: hidden; background-color: rgb(255, 255, 255);">
+
+                    <!-- Cabeçalho (Header) -->
+                    <tbody><tr>
+                        <td style="padding: 20px; text-align: left; background-color: rgb(0, 53, 128);">
+                            <h1 style="margin: 0px; font-size: 24px; font-weight: bold; color: rgb(255, 255, 255);">Booking.com</h1>
+                        </td>
+                    </tr>
+
+                    <!-- Corpo Principal (Content) -->
+                    <tr>
+                        <td style="padding: 30px; line-height: 1.6; color: rgb(51, 51, 51);">
+                            <p style="font-size: 18px; margin-top: 0;">Prezada <strong>Sara Romano Sousa</strong>,</p>
+
+                            <p>Temos o prazer de informar que o seu <strong>contrato foi confirmado</strong> com sucesso! No entanto, sua reserva está pendente de pagamento.</p>
+
+                            <!-- Bloco de Destaque: Pagamento Pendente (Padrão Booking.com) -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="15" style="border: 2px solid rgb(0, 84, 166); border-radius: 5px; margin: 20px 0px; background-color: rgb(230, 240, 255);">
+                                <tbody><tr>
+                                    <td>
+                                        <p style="margin: 0px; font-weight: bold; font-size: 18px; text-align: center; color: rgb(0, 53, 128);">PAGAMENTO PENDENTE</p>
+                                        <p style="margin: 10px 0 0 0; font-size: 16px; text-align: center;">Sua reserva será ativada após a confirmação do pagamento.</p>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <p>Devido a questões de limite, a entrada foi dividida em 2x de 30%. Escolha uma das opções de pagamento abaixo para prosseguir:</p>
+
+                            <!-- Tabela para os Dois Botões (Garantindo Layout Responsivo e Compatível) -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 30px 0;">
+                                <tbody><tr>
+                                    <td align="center" style="padding: 0 10px;">
+                                        <!-- Botão 1: 30% -->
+                                        <a href="https://hub.payevo.com.br/pay/b991e2ae-0cbd-4aad-9c9b-430170035073" style="display: inline-block; padding: 15px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin: 10px 0px; color: rgb(255, 255, 255); background-color: rgb(0, 84, 166);">
+                                            Pagar 30% (Caução)
+                                        </a>
+                                    </td>
+                                    <td align="center" style="padding: 0 10px;">
+                                        <!-- Botão 2: Valor Total no Cartão -->
+                                        <a href="https://link.infinitepay.io/reservapraia/VC1DLTYtUg-1Qrxb1mJWf-3259,92" style="display: inline-block; padding: 15px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin: 10px 0px; color: rgb(255, 255, 255); background-color: rgb(0, 53, 128);">
+                                            Pagar Valor Total (Cartão)
+                                        </a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <!-- Aviso de Instabilidade Bancária -->
+                            <table width="100%" border="0" cellspacing="0" cellpadding="15" style="border: 1px solid rgb(204, 0, 0); border-radius: 5px; margin: 20px 0px; background-color: rgb(252, 236, 236);">
+                                <tbody><tr>
+                                    <td>
+                                        <p style="margin: 0px; font-weight: bold; font-size: 14px; color: rgb(204, 0, 0);">⚠️ Aviso Importante:</p>
+                                        <p style="margin: 5px 0px 0px; font-size: 14px; color: rgb(204, 0, 0);">No momento, <strong>não estamos aceitando pagamentos via Nubank e Itaú</strong> devido a instabilidades técnicas. Por favor, utilize outra instituição financeira para garantir a confirmação imediata.</p>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <p>Após a confirmação do pagamento, você receberá um e-mail com todos os detalhes da sua estadia.</p>
+
+                            <p>Atenciosamente,<br>
+                            <strong>Equipe de Reservas Booking.com</strong></p>
+                        </td>
+                    </tr>
+
+                    <!-- Rodapé (Footer) -->
+                    <tr>
+                        <td style="padding: 20px; text-align: center; font-size: 12px; color: rgb(255, 255, 255); background-color: rgb(0, 53, 128);">
+                            <p style="margin: 0;">© 2026 Booking.com. Todos os direitos reservados.</p>
+                            <p style="margin: 10px 0 0 0;">Este é um e-mail automático, por favor não responda diretamente.</p>
+                            <p style="margin: 10px 0 0 0;"><a href="https://www.booking.com" style="text-decoration: underline; color: rgb(255, 255, 255);">Visite nosso site</a> | <a href="#" style="text-decoration: underline; color: rgb(255, 255, 255);">Suporte ao Cliente</a></p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+
+</div><div style="font-family: Arial, sans-serif; font-size: 14px;" class="protonmail_signature_block">
+</div>
